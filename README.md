@@ -5,6 +5,8 @@
 essential files to run app.py
 - movie_dict.pkl
 - similarity.pkl
+have used imdb API for poster extraction
+Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Steps to Run the Project
 
