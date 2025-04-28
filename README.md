@@ -1,8 +1,15 @@
 # Movie_Recommender_System
 
-essential files to run app.py
-1.movie_dict.pkl
-2.similarity.pkl
 
-Run the sysyem
-streamlit run app.py
+
+essential files to run app.py
+- movie_dict.pkl
+- similarity.pkl
+
+## Steps to Run the Project
+
+1. Create a new python project
+2. Install dependencies
+3. streamlit run app.py in terminal
+4. Open the browser and access the app
+
