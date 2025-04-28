@@ -10,6 +10,7 @@ essential files to run app.py
 
 1. Create a new python project
 2. Install dependencies
-3. streamlit run app.py in terminal
-4. Open the browser and access the app
+3. get files by running jupyter notebook
+4. streamlit run app.py in terminal
+5. Open the browser and access the app
 
