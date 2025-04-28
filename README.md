@@ -14,3 +14,7 @@ essential files to run app.py
 4. streamlit run app.py in terminal
 5. Open the browser and access the app
 
+## Below are Example Recommendations from system
+
+![2025-04-29](https://github.com/user-attachments/assets/9f5d5143-e132-4124-a6ea-ea5d4fab8fde)
+![2025-04-29 (1)](https://github.com/user-attachments/assets/7f5ae725-686d-44b5-a2d2-b10110bcade8)
